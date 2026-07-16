@@ -11,6 +11,6 @@ evaluated on cross-day generalization using the GRABMyo dataset.
 — 43 participants, 3 recording days, 16 gestures, 2048 Hz.
 
 ## Pipeline
-`APS360_Progress_Report_Pipeline_GRABMyo_GM_.ipynb` — complete pipeline 
+`progress_report_pipeline.ipynb` — complete pipeline 
 (download, preprocessing, SVM baseline, 1D CNN training, evaluation). 
 Runs end-to-end on Google Colab Pro with GPU + high-RAM.
